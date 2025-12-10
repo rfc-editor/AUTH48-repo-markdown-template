@@ -14,18 +14,11 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center. This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). For the issues, provide your answers in the comments or add PRs to address them.  
+The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all of the edits made by the RFC Production Center. This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-Feel free to add new issues and PRs for new edits and questions. Use @mention to identify the participant who should answer.
+For any PRs created by the RFC Production Center, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  In particular, please add comments or suggest updates in the RPC-edits PR.
 
-For any PRs created by the RFC Production Center, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
-
-The RFC Editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
-
-## Pull Requests
-If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
-
-If the RFC Editor creates the PR in response to issue comments, the RFC Editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
+For the Issues, please either reply in the comments how the item should be resolved, or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
 Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
