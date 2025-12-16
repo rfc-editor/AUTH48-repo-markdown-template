@@ -14,11 +14,11 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center. This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). For the issues, provide your answers in the comments or add PRs to address them.  
+The initial version of rfcXXXX.md a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). For the issues, provide your answers in the comments or add PRs to address them.  
 
 Feel free to add new issues and PRs for new edits and questions. Use @mention to identify the participant who should answer.
 
-For any PRs created by the RFC Production Center, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
+For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
 
 The RFC Editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
 
