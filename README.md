@@ -57,9 +57,9 @@ The details of the AUTH48 status of the document are here: [https://www.rfc-edit
 ## About This Repo
 Note that this repo is available only during AUTH48. This repo will be archived after the RFC publication announcement is sent. 
 
-## Contacting the RFC Editor
-For any questions or concerns, please contact rfc-editor@rfc-editor.org and CC auth48archive@rfc-editor.org. 
-Note that push events will send notification messages to auth48archive@rfc-editor.org. 
-
 ## Reverting to the Email-based AUTH48 Process
-If for some reason a participant (including the RPC) wants to stop using GitHub and wants to use the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/), this can be accomodated. We have structured the repo and the pilot process to align with the current process and we can transition the AUTH48 from GitHub to email.  
+If for some reason a participant (including the RPC) wants to stop using GitHub and wants to use the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/), this can be accommodated. We have structured the repo and the pilot process to align with the current process, and we can transition the AUTH48 from GitHub to email.  Please send mail to the RPC as noted below. 
+
+## Contacting the RFC Production Center 
+For any questions, concerns, or requests to opt out of the GitHub process, please contact rfc-editor@rfc-editor.org and CC auth48archive@rfc-editor.org. 
+
