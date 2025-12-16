@@ -18,7 +18,7 @@ The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was appr
 
 For any PRs created by the RFC Production Center, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  In particular, please add comments or suggest updates in the RPC-edits PR.
 
-For the Issues, please either reply in the comments how the item should be resolved, or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
+For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
 Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
