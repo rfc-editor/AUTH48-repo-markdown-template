@@ -14,18 +14,15 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). For the issues, provide your answers in the comments or add PRs to address them.  
+The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-Feel free to add new issues and PRs for new edits and questions. Use @mention to identify the participant who should answer.
+The RPC has proposed edits in the RPC-edits branch.  Please work within this branch as much as possible.  In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)  features to comment or suggest updates.  
 
-For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
+For the issues, provide your answers in the comments or add PRs to address them.  
+Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes. 
+For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  
 
-The RFC Editor will close the issue when it has been addressed either by accepting a pull request or simply closing the issue if no changes are needed.  
-
-## Pull Requests
-If you would like to submit changes, please create a pull request and identify one or more issues that the pull request closes in the comments. 
-
-If the RFC Editor creates the PR in response to issue comments, the RFC Editor will assign a reviewer for the PR and will expect feedback from the reviewer before merging the PR. 
+For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
 Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
@@ -37,8 +34,6 @@ Once the content of the .md file is stable, the RPC will create an XML file. The
 Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
    
 To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
-
-If you would like guidance on using xml2rfc locally, please ask the RFC Editor. 
 
 ## Viewing Diffs
 Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
