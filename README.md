@@ -35,8 +35,6 @@ Note: Once the XML file is generated, any further changes will be made in the XM
    
 To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
 
-If you would like guidance on using xml2rfc locally, please ask the RFC Editor. 
-
 ## Viewing Diffs
 Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
