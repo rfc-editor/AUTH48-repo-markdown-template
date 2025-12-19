@@ -20,7 +20,7 @@ The RPC has proposed edits in the RPC-edits branch.  Please work within this bra
 
 For the issues, provide your answers in the comments or add PRs to address them.  
 
-For any PRs created by the RFC Production Center, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  In particular, please add comments or suggest updates in the RPC-edits PR.
+For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  
 
 For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
