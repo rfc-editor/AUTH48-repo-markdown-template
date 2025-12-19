@@ -42,7 +42,7 @@ Once the XML and output files have been created, the following diff files are av
 * [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
 
 ## Approving the Document
-**Authors** To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
+**Authors** - To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the AUTH48 email** (using **REPLY ALL**) so everyone is aware of the approval.  
 
