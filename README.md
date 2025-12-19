@@ -2,7 +2,7 @@
 
 This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
 
-Please see the [License](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcNNNN-AUTH48/blob/main/note-well.md) applies.
+Please see the [License](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/note-well.md) applies.
 
 GitHub features that will be used:
 * Issue tracking
@@ -25,10 +25,10 @@ For any PRs created by the RPC, the editor expects feedback from at least one re
 
 Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
 
-* [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
-* [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.pdf)
-* [https://www.rfc-editor.org/authors/rfcNNNN.txt](https://www.rfc-editor.org/authors/rfcNNNN.txt)
-* [https://www.rfc-editor.org/authors/rfcNNNN.xml](https://www.rfc-editor.org/authors/rfcNNNN.xml)
+* [https://www.rfc-editor.org/authors/rfcXXXX.html](https://www.rfc-editor.org/authors/rfcXXXX.html)
+* [https://www.rfc-editor.org/authors/rfcXXXX.pdf](https://www.rfc-editor.org/authors/rfcXXXX.pdf)
+* [https://www.rfc-editor.org/authors/rfcXXXX.txt](https://www.rfc-editor.org/authors/rfcXXXX.txt)
+* [https://www.rfc-editor.org/authors/rfcXXXX.xml](https://www.rfc-editor.org/authors/rfcXXXX.xml)
 
 Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
    
@@ -38,15 +38,15 @@ To create your own output files, use the [IETF Author Tools webservice](https://
 Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
 Once the XML and output files have been created, the following diff files are available via www.rfc-editor.org:
-* [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) (all changes since the document entered the RFC Editor Queue)
-* [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
+* [https://www.rfc-editor.org/authors/rfcXXXX-diff.html](https://www.rfc-editor.org/authors/rfcXXXX-diff.html) (all changes since the document entered the RFC Editor Queue)
+* [https://www.rfc-editor.org/authors/rfcXXXX-rfcdiff.html](https://www.rfc-editor.org/authors/rfcXXXX-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
 
 ## Approving the Document
 **Authors** - To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the AUTH48 email** (using **REPLY ALL**) so everyone is aware of the approval.  
 
-The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcNNNN](https://www.rfc-editor.org/auth48/rfcNNNN)
+The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcXXXX](https://www.rfc-editor.org/auth48/rfcXXXX)
 
 ## About This Repo
 Note that this repo is available only during AUTH48. This repo will be archived after the RFC publication announcement is sent. 
