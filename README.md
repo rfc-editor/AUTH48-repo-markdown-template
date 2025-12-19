@@ -19,7 +19,7 @@ The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was appr
 The RPC has proposed edits in the RPC-edits branch.  Please work within this branch as much as possible.  In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)  features to comment or suggest updates.  
 
 For the issues, provide your answers in the comments or add PRs to address them.  
-
+Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes. 
 For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.  
 
 For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
