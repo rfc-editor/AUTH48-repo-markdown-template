@@ -27,20 +27,17 @@ For any PRs created by the RPC, the editor expects feedback from at least one re
 ## Viewing Diffs
 Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
-Once the XML and output files have been created, the following diff files are available via www.rfc-editor.org:
-* [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) (all changes since the document entered the RFC Editor Queue)
-* [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
-
 ## Approving the Document
+Once the content of the .md file is stable in GitHub, the RPC will send an email requesting approval of the content. Authors should send approval by email as indicated below. 
 
-Once the content of the .md file is stable in GitHub, the RPC will send an email requesting approval of the content. Approval should be sent by email as indicated below. 
-
-Once approval of the content is received from all authors, the RPC will create an XML file. The following files will be provided for your review at that time and approval of the format will be requested:
+Once approval of the content is received from all authors, the RPC will download the .md file from GitHub and create an XML file. The following files will be provided for your review at that time and approval of the format will be requested:
 
 * [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
 * [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.pdf)
 * [https://www.rfc-editor.org/authors/rfcNNNN.txt](https://www.rfc-editor.org/authors/rfcNNNN.txt)
 * [https://www.rfc-editor.org/authors/rfcNNNN.xml](https://www.rfc-editor.org/authors/rfcNNNN.xml)
+* [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) 
+* [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) 
 
 Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
    
