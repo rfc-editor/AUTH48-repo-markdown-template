@@ -20,10 +20,17 @@ The RPC has proposed edits in the RPC-edits branch.  Please work within this bra
 
 For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
 
-Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes. 
+Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes.
+
 For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
 
-Once the content of the .md file is stable, the RPC will create an XML file. The following files will be provided for your review at that time:
+## Viewing Diffs
+Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
+
+## Approving the Document
+Once the content of the .md file is stable in GitHub, the RPC will send an email requesting approval of the content. Authors should send approval by email as indicated below. 
+
+Once approval of the content is received from all authors, the RPC will download the .md file from GitHub and create an XML file. The following files will be provided for your review at that time and approval of the format will be requested:
 
 * [https://www.rfc-editor.org/authors/rfcXXXX.html](https://www.rfc-editor.org/authors/rfcXXXX.html)
 * [https://www.rfc-editor.org/authors/rfcXXXX.pdf](https://www.rfc-editor.org/authors/rfcXXXX.pdf)
@@ -34,14 +41,6 @@ Note: Once the XML file is generated, any further changes will be made in the XM
    
 To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
 
-## Viewing Diffs
-Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
-
-Once the XML and output files have been created, the following diff files are available via www.rfc-editor.org:
-* [https://www.rfc-editor.org/authors/rfcXXXX-diff.html](https://www.rfc-editor.org/authors/rfcXXXX-diff.html) (all changes since the document entered the RFC Editor Queue)
-* [https://www.rfc-editor.org/authors/rfcXXXX-rfcdiff.html](https://www.rfc-editor.org/authors/rfcXXXX-rfcdiff.html) (all changes since the document entered the RFC Editor Queue side by side)
-
-## Approving the Document
 **Authors** - To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the AUTH48 email** (using **REPLY ALL**) so everyone is aware of the approval.  
