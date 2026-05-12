@@ -1,6 +1,6 @@
 # AUTH48 for RFC-to-be XXXX <draft-XX> (in markdown)
 
-This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
+This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
 Please see the [License](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/note-well.md) applies.
 
@@ -14,7 +14,7 @@ Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub no
 This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
 
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://www.rfc-editor.org/pubprocess/auth48/). 
+The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
 The RPC has proposed edits in the RPC-edits branch.  Please work within this branch as much as possible.  In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)  features to comment or suggest updates.  
 
