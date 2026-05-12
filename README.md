@@ -2,7 +2,7 @@
 
 This repository is for managing document updates for RFC XXXX during AUTH48. This is part of the [pilot GitHub-based process for AUTH48](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
-Please see the [License](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/rfcXXXX-AUTH48/blob/main/note-well.md) applies.
+Please see the [License](https://github.com/rfc-editor/AUTH48-rfcXXXX/blob/main/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/AUTH48-rfcXXXX/blob/main/note-well.md) applies.
 
 GitHub features that will be used:
 * Issue tracking
