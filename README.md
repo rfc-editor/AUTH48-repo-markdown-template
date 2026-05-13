@@ -11,39 +11,46 @@ GitHub features that will be used:
 
 Authors, AD, WG chairs, and document shepherd, please ensure that your GitHub notification settings are set such that you can participate promptly in discussions of issues and pull requests. For more information, please see [Configuring notifications](https://docs.github.com/en/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications).  
 
-This document is being edited in kramdown-rfc markdown.  Once the content is stable, the markdown will be converted to RFCXML and formatted as an RFC.  Your final approval means you approve both the content and format.
-
 ## Pull Requests and Issue Tracking
-The initial version of rfcXXXX.md is a copy of the Internet-Draft as it was approved for publication. A PR has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
+The initial version of rfcXXXX.md is a copy of the Internet-Draft (in markdown) as it was approved for publication. A pull request has been created that contains all the edits made by the RFC Production Center (RPC). This emulates the starting state of the [current AUTH48 procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
-The RPC has proposed edits in the RPC-edits branch.  Please work within this branch as much as possible.  In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)  features to comment or suggest updates.  
+The edits made by the RPC appear in the RPC-edits branch.  Please work within this branch as much as possible. In particular, use the [comment and suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request) features to comment or suggest updates.  
 
-For the Issues, please either reply in the comments how the item should be resolved or submit a PR with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed.  
+For the Issues, please either reply in the comments how the item should be resolved or submit a pull request against the RPC-edits branch with the suggested fix.  If you choose to create a new pull request, please identify the issue it resolves in the comments.  The RFC Editor will close the issue when it has been addressed by either accepting a pull request or simply closing the issue if no changes are needed. 
+
+Feel free to add new issues and pull requests for new edits and questions. Use @mention to identify the participant who should answer.
 
 Note: For both comments and issues, please DO NOT use emojis to approve or disprove changes.
 
-For any PRs created by the RPC, the editor expects feedback from at least one reviewer before merging the PR. We expect the other relevant parties will speak up if they disagree with any update.
+For any pull requests created by the RPC, the editor expects feedback from at least one reviewer before merging the pull request. We expect the other relevant parties will speak up if they disagree with any update.
 
-## Viewing Diffs
+## Viewing Output Files and Diffs
 Information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
-## Approving the Document
-Once the content of the .md file is stable in GitHub, the RPC will send an email requesting approval of the content. Authors should send approval by email as indicated below. 
+In addition to the files available in GitHub, the following edited files are available for your review:
 
-Once approval of the content is received from all authors, the RPC will download the .md file from GitHub and create an XML file. The following files will be provided for your review at that time and approval of the format will be requested:
+* [https://www.rfc-editor.org/authors/rfcNNNN.html](https://www.rfc-editor.org/authors/rfcNNNN.html)
+* [https://www.rfc-editor.org/authors/rfcNNNN.pdf](https://www.rfc-editor.org/authors/rfcNNNN.pdf)
+* [https://www.rfc-editor.org/authors/rfcNNNN.txt](https://www.rfc-editor.org/authors/rfcNNNN.txt)
+* [https://www.rfc-editor.org/authors/rfcNNNN.xml](https://www.rfc-editor.org/authors/rfcNNNN.xml)
 
-* [https://www.rfc-editor.org/authors/rfcXXXX.html](https://www.rfc-editor.org/authors/rfcXXXX.html)
-* [https://www.rfc-editor.org/authors/rfcXXXX.pdf](https://www.rfc-editor.org/authors/rfcXXXX.pdf)
-* [https://www.rfc-editor.org/authors/rfcXXXX.txt](https://www.rfc-editor.org/authors/rfcXXXX.txt)
-* [https://www.rfc-editor.org/authors/rfcXXXX.xml](https://www.rfc-editor.org/authors/rfcXXXX.xml)
-
-Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
-   
+The following diff files are also available via www.rfc-editor.org:
+* [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) (all changes since the document entered the RFC Editor Queue)
+* [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (side-by-side view of all changes since the document entered the RFC Editor Queue)
+* 
 To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
 
-**Authors** - To approve your RFC for publication, **please reply to the AUTH48 email** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
+## Approving the Document
 
-**ADs** - To approve any changes that are beyond editorial, **please reply to the AUTH48 email** (using **REPLY ALL**) so everyone is aware of the approval.  
+Once the content is stable in GitHub, the markdown will be converted to RFCXML and formatted as an RFC.  The RFC Production Center (RPC) will then send an email with links to the .html, .pdf, .txt, and .xml files and request final approval of the document.  Your final approval means that you approve both the content and format and that the RFC is ready for publication.
+
+Note: Once the XML file is generated, any further changes will be made in the XML file.  The markdown file will not be updated.
+
+Authors should send approval by email as indicated below. 
+
+**Authors** - To approve your RFC for publication, **please reply to the email requesting approval** stating that you approve this RFC for publication.  Please use **REPLY ALL**, as all the parties CC’ed on the message need to see your approval.
+
+**ADs** - To approve any changes that are beyond editorial, **please reply to the email requesting approval** (using **REPLY ALL**) so everyone is aware of the approval.  
 
 The details of the AUTH48 status of the document are here: [https://www.rfc-editor.org/auth48/rfcXXXX](https://www.rfc-editor.org/auth48/rfcXXXX)
 
