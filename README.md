@@ -37,7 +37,7 @@ In addition to the files available in GitHub, the following edited files are ava
 The following diff files are also available via www.rfc-editor.org:
 * [https://www.rfc-editor.org/authors/rfcNNNN-diff.html](https://www.rfc-editor.org/authors/rfcNNNN-diff.html) (all changes since the document entered the RFC Editor Queue)
 * [https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html](https://www.rfc-editor.org/authors/rfcNNNN-rfcdiff.html) (side-by-side view of all changes since the document entered the RFC Editor Queue)
-* 
+ 
 To create your own output files, use the [IETF Author Tools webservice](https://author-tools.ietf.org/).
 
 ## Approving the Document
