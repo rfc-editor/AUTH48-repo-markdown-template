@@ -52,7 +52,7 @@ Authors should send approval by email as indicated below.
 
 **ADs** - To approve any changes that are beyond editorial, **please reply to the email requesting approval** (using **REPLY ALL**) so everyone is aware of the approval.  
 
-The details of the Final Review status of the document are here: [https://www.rfc-editor.org/auth48/rfcXXXX](https://www.rfc-editor.org/auth48/rfcXXXX)
+Details about the status of your Final Review are here: [https://www.rfc-editor.org/auth48/rfcXXXX](https://www.rfc-editor.org/auth48/rfcXXXX)
 
 ## About This Repo
 Note that this repo is available only during Final Review. This repo will be archived after the RFC publication announcement is sent. 
