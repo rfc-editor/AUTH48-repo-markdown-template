@@ -1,6 +1,6 @@
 # Final Review for RFC-to-be XXXX <draft-XX> (in markdown)
 
-This repository is for managing document updates for RFC XXXX during Final Review (formerly called AUTH48). This is part of the [pilot GitHub-based process for Final Review](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current Final Review procedure](https://authors.ietf.org/en/rfc-publication-process). 
+This repository is for managing document updates for RFC XXXX during Final Review (previously AUTH48). This is part of the [pilot GitHub-based process for Final Review](https://www.rfc-editor.org/rpc/wiki/doku.php?id=rpc_github_roadmap), and it emulates the [current Final Review procedure](https://authors.ietf.org/en/rfc-publication-process). 
 
 Please see the [License](https://github.com/rfc-editor/AUTH48-rfcXXXX/blob/Approved/LICENSE.md). The [IETF Note Well](https://github.com/rfc-editor/AUTH48-rfcXXXX/blob/Approved/note-well.md) applies.
 
